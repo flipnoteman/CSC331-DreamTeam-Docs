@@ -1,0 +1,5 @@
+10/7/2022 - We met up online to finish some diagram building and deliberate on the Specification requirements
+9/21/2022 - We met as a group online to do some document building
+  * Also worked on requirements that we sent to Dr. Yasinsac
+8/24/2022 - All teams met to discuss how we were going to execute the storage and access of all voter registration and candidate registration data
+  * Decided that we would have either an SQL server or a shared text file that only took unsensitive information
